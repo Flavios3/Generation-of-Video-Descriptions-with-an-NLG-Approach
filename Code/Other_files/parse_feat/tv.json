@@ -1,0 +1,79 @@
+{
+	"hd_type": {
+		"parameter_name": "resolution",
+		"to_upper": true
+	},
+	"display_diagonal": {
+		"parameter_name": null,
+		"to_upper": false
+	},
+	"display_technology": {
+		"parameter_name": "Display",
+		"to_upper": true
+	},
+	"display_resolution": {
+		"parameter_name": null,
+		"to_upper": false
+	},
+	"native_aspect_ratio": {
+		"parameter_name": "Aspect Ratio",
+		"to_upper": false
+	},
+	"usb_2_0_port": {
+		"parameter_name": "USB 2.0 Port",
+		"to_upper": false
+	},
+	"sound_modes": {
+		"parameter_name": null,
+		"to_upper": false
+	},
+	"sound_enhancement_tecnhnology": {
+		"parameter_name": "",
+		"to_upper": false
+	},
+	"speaker": {
+		"parameter_name": "built-in Speakers",
+		"to_upper": false
+	},
+	"high_dynamic_range_hdr":{
+		"parameter_name": "HDR",
+		"to_upper":false
+	},
+	"operating_system_installed":{
+		"parameter_name": "Operating System",
+		"to_upper":false
+	},
+	"smart_tv_&_apps":{
+		"parameter_name": null,
+		"to_upper":false
+	},
+	"high_dynamic_range_hdr_technology":{
+		"parameter_name": null,
+		"to_upper":false
+	},
+	"other_features":{
+		"parameter_name": null,
+		"to_upper":false
+	},
+	"video_apps":{
+		"parameter_name": null,
+		"to_upper":false
+	},
+	"picture_processing_technology":{
+		"parameter_name":"Picture Processing",
+		"to_upper":false
+	},
+	"led_backlighting_type":{
+		"parameter_name":null,
+		"to_upper":false
+	},
+	"screen_shape":{
+		"parameter_name":"screen",
+		"to_upper":false
+	},
+	"number_of_osd_languages":{
+		"parameter_name":"OSD languages",
+		"to_upper":false
+	}
+
+}

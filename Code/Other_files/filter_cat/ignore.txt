@@ -1,0 +1,6 @@
+Supplier Features
+Logistics Data
+Packaging Data
+generalInfo
+Certificates
+Weight & Dimensions

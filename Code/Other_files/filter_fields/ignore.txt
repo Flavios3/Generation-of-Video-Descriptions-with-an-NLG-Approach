@@ -1,0 +1,7 @@
+slug
+releaseDate
+sku
+published
+images
+pubinfo
+aff_hist

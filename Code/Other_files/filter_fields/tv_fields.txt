@@ -1,0 +1,14 @@
+hd_type
+display_diagonal
+display_resolution
+display_technology
+high_dynamic_range_hdr
+native_refresh_rate
+audio_power
+speaker
+sound_modes
+sound_enhancement_tecnhnology
+operating_system_installed
+voice_control
+wi-fi
+bluetooth
